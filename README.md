@@ -1,14 +1,14 @@
-# ReverseCoin Blockchain Project - [中文文档](https://github.com/blueokanna/ReverseCoin/blob/main/README_zh.md)
+# ReverseCoin - [中文文档](https://github.com/blueokanna/ReverseCoin/blob/main/README_zh.md)
 
 [![Apache Java](https://img.shields.io/badge/logo-apache-yellow?logo=apache-maven)](https://www.apache.org/foundation/marks/)
-[![License](http://img.shields.io/:license-apache-green.svg?style=flat)](https://www.apache.org/licenses/)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Hits](https://hits.sh/github.com/blueokanna/ReverseCoin.git.svg?color=fe7d37)](https://hits.sh/github.com/blueokanna/ReverseCoin.git/)
 
-> In this project, we use the **Apache 2.0** open source protocol, detailed instructions will be introduced in the **Wiki**, and if you like this project, you may want to click a **Star** ⭐.
+> In this project, we use the **GPL v3.0** open source protocol, detailed instructions will be introduced in the **Wiki**, and if you like this project, you may want to click a **Star** ⭐.
 
 ## 1. The Basics of Blockchain
 
-Blockchain is a decentralised distributed database technology, and its core principles include the following key concepts:
+ReverseCoin is based on Java Blockchain Project and it is a decentralised distributed database technology, and its core principles include the following key concepts:
 
 1. **Decentralised and Distributed Storage**: instead of having a centralised governing body, blockchain is maintained and managed by many nodes in the network working together. These nodes all store copies of the same data, forming a distributed database.
 
@@ -20,11 +20,13 @@ Blockchain is a decentralised distributed database technology, and its core prin
 
 5. **Distributed Bookkeeping**: once a new block is added to the chain by consensus, all nodes update their local copies so that the entire network maintains a consistent state.
 
-    ![1](https://github.com/blueokanna/ReverseCoin/assets/56761243/a13814ed-51cb-4d8d-8f83-d8cceb3ff10f)
+***
+## 2. ReverseCoin Architecture Hierarchy Schematic
+![2](https://github.com/blueokanna/ReverseCoin/assets/56761243/de6f64da-2d4c-4c6e-9005-17d1b7173f0c)
 
 ----
-For more details, you can read the **WiKi** page: [ReverseCoin User Manual](https://github.com/blueokanna/ReverseCoin/wiki/PetaBlock-Blockchain-User-Manual)
+For more details, you can read the **WiKi** page: [ReverseCoin User Manual](https://github.com/blueokanna/ReverseCoin/wiki/ReverseCoin-User-Manual)
 
 You can report vulnerabilities in the project at Github Issues. This side will also try to ensure that issues are handled in a timely manner, but depending on the time impact of different time zones, it may take a while to respond or update the bug or vulnerability code in a timely manner.
 
-Finally, we would to thank the developers of the **洋葱骑士/dce-blockchain** project for the reference and Java open source **Maven** library used in this project.
+Finally, I would to thank the developers of the **洋葱骑士/dce-blockchain** project for the reference and Java open source **Maven** library used in this project.
