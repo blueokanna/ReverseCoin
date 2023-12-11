@@ -4,7 +4,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Hits](https://hits.sh/github.com/blueokanna/ReverseCoin.git.svg?color=fe7d37)](https://hits.sh/github.com/blueokanna/ReverseCoin.git/)
 
-> 在本项目中使用的是 **Apache 2.0** 开源协议，详细的使用说明方法将会在 **Wiki** 里面为大家介绍 (非 Springboot 的Java 项目)，同时喜欢这个项目的朋友不妨点个 **Star** ⭐
+> 在本项目中使用的是 **GPL v3.0** 开源协议，详细的使用说明方法将会在 **Wiki** 里面为大家介绍，同时喜欢这个项目的朋友不妨点个 **Star** ⭐
 
 ## 1. 区块链的基本原理
 
@@ -22,6 +22,10 @@ ReverseCoin 区块链是使用 Java 编写的一个项目，其是使用去中�
    
 ***
 ## 2. 区块链架构层级示意图
+
+![1](https://github.com/blueokanna/ReverseCoin/assets/56761243/4cd4353a-e8c6-4381-bf6b-2875532baa84)
+
+
 
 本项目的区块链使用详情可以阅读 **WiKi** 页面：[ReverseCoin 区块链使用手册](https://github.com/blueokanna/ReverseCoin/wiki/ReverseCoin-%E5%8C%BA%E5%9D%97%E9%93%BE%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C)
 
