@@ -111,7 +111,7 @@ public class MiningReverseCoinBlock {
         }
 
         List<ReverseCoinTransaction> TransData = new CopyOnWriteArrayList<>();
-        TransData.add(new ReverseCoinTransaction("PetaBlock_Sender1", "PetaBlock_Receiver1", 1145141919810L, numberGenerations / 2));
+        TransData.add(new ReverseCoinTransaction("ReverseCoin_Sender1", "ReverseCoin_Receiver1", 1145141919810L, numberGenerations / 2));
 
         String Sender = TransData.get(0).getSender();
         String Receiver = TransData.get(0).getReceiver();

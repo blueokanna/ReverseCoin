@@ -30,7 +30,7 @@ public class NewBlockCreation implements NewReverseCoinBlockInterface {
             numberGenerations /= 2;
         }
 
-        String Sender = "PetaCoins";
+        String Sender = "ReverseCoin";
         String Receiver = "BlockChain";
         double Amount = 114514;
         double gasFee = 1919.810;
@@ -134,7 +134,7 @@ public class NewBlockCreation implements NewReverseCoinBlockInterface {
                 return false;
             }
         }
-        System.out.println("PetaBlock verification successful！");
+        System.out.println("ReverseCoin verification successful！");
         return true;
     }
 
